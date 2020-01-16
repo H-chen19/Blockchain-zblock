@@ -34,7 +34,8 @@ MyCrypto: Is an open-source client-site tool for generating ether wallets and al
 
     *'From there you will see four different json files like below picture.'*
 
-        json_files.png
+![json_files](json_files.png)
+
 
 
 
